@@ -1,0 +1,87 @@
+komting : Dwi Prakoso
+Profil Dosen
+- Research interest
+  - software engineering (wes app) data mining information retreval
+- Activity
+  - Dosen TI Fasilkom UDINUS
+  - Manager DIV software PT DINUSTEK
+  - CEO Desa Media
+
+MataKuliah
+Nama Mata Kuliah : Pemprograman Berbasis WEB
+SKS : 2 sks
+
+Outline (RPS)
+-Pengenalan Pemrograman Berbasis Web
+-Struktur dasar HTML HTML Tags Text formatting html list html hyperlink html images html tables
+-html form multimedia embedding (gambar video audio)
+-struktur dasar css css syntax css selector css value dan unit css text styling web font
+-desain responsive dan aksesibilitas halaman website
+-framework css menggunkan bootstrap
+
+Komponen Penilaian 	Range Nilai
+-kehadiran : 75%	A. 85-99	
+-tugas : 40%		B. 70-84
+-UTS : 30% 		C. 56-69
+-UAS : 30%		D. 40-55
+			E. 0-39
+
+Teknologi Internet
+1. Protocols (TCP/IP)
+2. Browsers (software untuk menampilkan domain)
+3. Web servers and Clients
+4. Networking (Jaringan Computer)
+
+HTTP
+-hyper text transfer protocol
+ adalah protokol level aplikasi untuk sistem informasi hypermedia tersebar
+
+WEB SERVER
+ Adalah HTTP server sebagai penyedia dokumen yang diminta web browser.
+Web server telah kompleks karenaharus melayani banyak hal dan bahkan menjadi pusat layanan-layanan lain
+
+Web server telah menjadi komponen terpenting di application server.
+
+Web server harus mampu meayani permintaan dokumen yang diminta wes browser dan mampu disetting berinteraksi dengan program JSP,ASP,PHP
+secara CGI dan sebagainya.
+
+Contoh : Apache, IIS (Internet Information Service)
+
+APACHE, PHP, MYSQL
+- Apache web server : perangkat lunak yang menyediakan layanan akses berkas-berkas tertentu melalui protokol HTTP.
+- PHP Engine : PErangkat lunak yang menerjemahkan kode pemprograman PHP ke dalam teks stanard HTML agar dapat dibaca oleh browser
+- MySQL servers : perangkat lunak manajemen basis data yang digunakan untuk menyimpan dan mengelola data dalam bentuk relasional
+
+Pemprograman sisi klien (CLIENT_SIDE SCRIPTING)
+ Bahasa pemprograman yang untuk mengaplikasikan tidak memerlukan web server, atau bahasa pemprograman yang berjalan disisi client
+Contoh : HTML, JavaScript
+
+DOMAIN NAME SYSTEM (DNS)
+ Sistem penamaan server komputer yang berfungsi untuk pengelolaan server komputer diinternet
+Contoh : .com, .edu, .gov, .int, .mil, .net, .org, dsb
+
+Pemprograman sisi server (server-side scripting)
+ Bahasa pemprograman yang untuk mengaplikasikannya memerlukan web server, atau bahasa pemprograman yang berjalan disisi server.
+Contoh : ASP, memerlukan web server IIS (Internet Information Service), PHP, Memerlukan web server Apache.
+
+Hypertext Markup Langauage (HTML)
+ Merupakan bahsa markup paling popular, disusul extensible markup language (XML)
+
+ XML adalah bahasa yang digunakan untuk membuat bahasa markup lain yaitu Wireless Markup Language (WML)
+
+ Bahasa markup bukan bahasa pemprograman. Oleh karena itu, penyebutan bahasa pemprograman HTML adalah kurang tepat
+
+ARSITEKTUR APLIKASI WEB (BASIC)
+Logical Layers		Typical Web
+ - Client		 - Browser
+
+ - Pres & Bus		 - Web Server
+  Logic Layer
+ 
+ - Data Layer		 - Database 
+			  (or Legacy Data Store)
+
+SELF PACED LEARING 
+ - Instalasi Web Server (Apache, PHP, MariaDB)
+ - Instalasi Git dan Push Repositori Github (Repository Latihan dan pengumpulan Tugas)
+ - Explore dasar-dasar HTML

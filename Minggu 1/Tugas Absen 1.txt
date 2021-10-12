@@ -1,0 +1,9 @@
+1. Arsitektur Web Based adalah suatu pendekatan terhadap desain dan perencanaan situs dimana melibatkan teknis, kriteria estetis dan fungsional
+   - Contoh Web Server : Apache, Microsoft Internet Information Services(IIS), Lighttpd
+   - Contoh Database Server : MySQL, Microsoft SQL Server, PostgreSQL, Microsoft Access
+   - Contoh Pemrograman Server : JSP, ASP, PHP
+
+2. GIT adalah Software berbasis Version Control System yang bertugas untuk mencatat perubahan seluruh file atau repository suatu project.
+   GitHub adalah layanan cloud untuk menyimpan dan mengelola sebuah project yang dinamakan repository.
+
+https://github.com/Tryanys/pem-web2021.git
